@@ -1,0 +1,60 @@
+[
+    {
+        "destination": "Kukshi",
+        "name": "August Kranti Express",
+        "seats": [
+            [
+                {
+                    "aadharCard": "123789",
+                    "name": "Kavita Alpesh Bhavsar",
+                    "userId": "abc124"
+                }
+            ]
+        ],
+        "source": "20259",
+        "time": 1751803443,
+        "vehicleId": "20259"
+    },
+    {
+        "destination": "Mehsana",
+        "name": "Karnavati Express",
+        "seats": [
+            [
+                {
+                    "aadharCard": "123567",
+                    "name": "Aastha Bhavsar",
+                    "userId": "123456"
+                }
+            ]
+        ],
+        "source": "12229",
+        "time": 1751803502,
+        "vehicleId": "12229"
+    },
+    {
+        "destination": "Ahmedabad",
+        "name": "Vadnagar Express",
+        "seats": [
+            [
+                {
+                    "aadharCard": "456123",
+                    "name": "Meet Bhavsar",
+                    "userId": "678912"
+                }
+            ]
+        ],
+        "source": "20256",
+        "time": 1751803571,
+        "vehicleId": "20256"
+    },
+    {
+        "destination": "Kadi",
+        "name": "Tejas Express",
+        "seats": [
+            []
+        ],
+        "source": "123490",
+        "time": 1751803618,
+        "vehicleId": "123490"
+    }
+]
